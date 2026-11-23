@@ -22,7 +22,18 @@
 
 .fotka-zvirete2{
      width:100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+}
+
+.fotka-zvirete3{
+     width:100%;
     aspect-ratio: 1/1;
     object-fit: cover;
+}
 
+.fotka-zvirete4{
+    width:100%;
+    aspect-ratio: 4/4;
+    object-fit: cover;
 }
